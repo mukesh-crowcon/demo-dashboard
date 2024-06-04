@@ -1,4 +1,3 @@
-import React from "react";
 import { classNames } from "./utils";
 import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/outline";
 const days = [

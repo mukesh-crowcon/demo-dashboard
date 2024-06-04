@@ -16,8 +16,6 @@ import {
 import { PieChartComp } from "../Commons/PieChartComp";
 import data from "../Data/deviceStats.json";
 import { data as data2 } from "../Data/deviceList.json";
-import TableOne from "./Table/Table";
-import TableTwo from "./Table/TableTwo";
 import TableThree from "./Table/TableThree";
 import { FunnelIcon } from "@heroicons/react/24/outline";
 import DueList from "./DueList";
@@ -40,16 +38,16 @@ const months: {
 };
 
 export default function Other() {
-  const p = data.reduce(
-    (acc: any, device: any) => ({
-      ...acc,
-      [device.lastSwitchOnDate.split("T")[0]]: [
-        ...(acc[device.lastSwitchOnDate.split("T")[0]] ?? []),
-        device,
-      ],
-    }),
-    {}
-  );
+  // const p = data.reduce(
+  //   (acc: any, device: any) => ({
+  //     ...acc,
+  //     [device.lastSwitchOnDate.split("T")[0]]: [
+  //       ...(acc[device.lastSwitchOnDate.split("T")[0]] ?? []),
+  //       device,
+  //     ],
+  //   }),
+  //   {}
+  // );
   const switchOn = data.reduce(
     (acc: any, device: any) => ({
       ...acc,

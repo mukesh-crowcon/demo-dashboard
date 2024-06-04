@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import {
   Transition,
   Dialog,
@@ -7,7 +6,6 @@ import {
 } from "@headlessui/react";
 import { XMarkIcon, Cog6ToothIcon } from "@heroicons/react/24/outline";
 import { navigation, classNames, teams } from "./utils";
-import { useEffect } from "react";
 
 type Props = {
   isSidebarOpen: boolean;
