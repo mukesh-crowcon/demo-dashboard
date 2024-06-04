@@ -7,7 +7,7 @@ import {
 } from "@headlessui/react";
 import { CheckIcon, ChevronDownIcon } from "@heroicons/react/20/solid";
 import clsx from "clsx";
-import React, { useState } from "react";
+import { useState } from "react";
 
 const people = [
   { id: 1, name: "May" },

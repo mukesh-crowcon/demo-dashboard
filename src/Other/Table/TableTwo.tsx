@@ -1,4 +1,3 @@
-import React from "react";
 import "./TableTwo.css";
 
 const data = [

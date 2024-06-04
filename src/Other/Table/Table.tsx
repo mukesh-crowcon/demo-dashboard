@@ -1,4 +1,3 @@
-import React from "react";
 import "./Table.css";
 import { ArrowDownIcon } from "@heroicons/react/24/solid";
 const TableOne = () => {

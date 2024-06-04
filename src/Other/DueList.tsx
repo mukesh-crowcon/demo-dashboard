@@ -1,5 +1,3 @@
-import React from "react";
-
 const DueList = () => {
   return (
     <div className="bg-c-white p-4 rounded-2xl">

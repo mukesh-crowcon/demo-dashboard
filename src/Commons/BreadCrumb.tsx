@@ -5,7 +5,6 @@ import {
   PopoverPanel,
 } from "@headlessui/react";
 import { ChevronDownIcon } from "@heroicons/react/24/outline";
-import React from "react";
 
 export default function BreadCrumb({ activePage }: { activePage: string }) {
   return (
