@@ -1,0 +1,88 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+tr > td {
+  color: #232323;
+}
+
+.arrow {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-style: solid;
+  border-width: 2px 2px 0 0;
+  margin-right: 5px;
+}
+
+.arrow.up {
+  transform: rotate(45deg);
+}
+
+.arrow.down {
+  transform: rotate(-45deg);
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.download {
+  padding: 8px 16px;
+  border: 1px solid #123288;
+  color: #123288;
+  cursor: pointer;
+}
+
+.pagination {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
+
+.pagination button {
+  padding: 8px 16px;
+  margin: 0 0px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: transparent;
+  color: blue;
+  font-weight: bold;
+}
+
+.pagination button.active {
+  background-color: blue;
+  color: white;
+}
+
+th {
+  background-color: transparent;
+  color: #718ebf;
+}

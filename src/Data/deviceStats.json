@@ -1,0 +1,1721 @@
+[
+  {
+    "deviceId": "93c96650-a48f-40e8-1605-08db8c2ca21a",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-08-01T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "fdd32b0d-b1b0-4764-e9d9-08db59e79ac9",
+    "lastSwitchOnDate": "2023-05-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 52m 9s",
+    "lastUploadDate": "2023-05-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "17316b66-6126-48eb-64da-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 58s",
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "7ea319cf-e9d9-4df9-788d-08db89fd3b64",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 54m 55s",
+    "lastUploadDate": "2023-07-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "a50719b5-a8a7-4eb5-0e2c-08daa069c7a8",
+    "lastSwitchOnDate": "2022-09-27T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2022-09-27T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "cfbbd724-9f01-4805-0e37-08daa069c7a8",
+    "lastSwitchOnDate": "2022-09-28T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2022-09-28T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "41a1b7b0-f3a5-4a1e-6b1a-08db60eff646",
+    "lastSwitchOnDate": "2023-05-30T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 13m 22s",
+    "lastUploadDate": "2023-05-30T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "22e85f0b-43bd-4316-2dcb-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-12T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 39m 6s",
+    "lastUploadDate": "2023-06-12T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4c1399f7-f8a3-4094-f29d-08db8110c79e",
+    "lastSwitchOnDate": "2023-07-12T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-12T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f04dc383-f0ee-4c0c-3536-08dc34672e40",
+    "lastSwitchOnDate": "2020-12-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "24m 23s",
+    "lastUploadDate": "2020-12-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "3a485f74-3a75-4d5a-707a-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "8m 21s",
+    "lastUploadDate": "2023-05-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "96f80932-5844-4e47-7086-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "45m 37s",
+    "lastUploadDate": "2023-05-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "252b732a-6b43-46df-cf74-08db08cec1c6",
+    "lastSwitchOnDate": "2024-03-12T00:00:00+00:00",
+    "lastSwitchOnDuration": "5m",
+    "lastUploadDate": "2024-04-24T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2024-03-14T02:39:44+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "6f85910c-3789-4ae7-5a46-08db95a78ed3",
+    "lastSwitchOnDate": "2099-08-24T00:00:00+00:00",
+    "lastSwitchOnDuration": "8m 21s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "366f879f-fa57-426f-5a52-08db95a78ed3",
+    "lastSwitchOnDate": "2072-01-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "8m 2s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d7db7102-d8b4-46e4-f108-08db89044431",
+    "lastSwitchOnDate": "2023-07-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 16m 34s",
+    "lastUploadDate": "2023-07-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "c902d2f7-5bb2-472b-825e-08db5c1746e8",
+    "lastSwitchOnDate": "2023-05-24T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 21m 25s",
+    "lastUploadDate": "2023-05-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9dcef691-d26f-459c-5a42-08db95a78ed3",
+    "lastSwitchOnDate": "2067-09-04T00:00:00+00:00",
+    "lastSwitchOnDuration": "21m 9s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d39e027d-d1e5-4c66-950a-08dae98179f7",
+    "lastSwitchOnDate": "2023-06-23T00:00:00+00:00",
+    "lastSwitchOnDuration": "40s",
+    "lastUploadDate": "2023-06-23T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9ad7c1fa-4c9f-431e-355b-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-10T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 37s",
+    "lastUploadDate": "2022-02-10T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "654db575-ee9c-4e17-2dce-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-13T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-13T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "95e4158d-223b-4485-5a48-08db95a78ed3",
+    "lastSwitchOnDate": "2094-12-07T00:00:00+00:00",
+    "lastSwitchOnDuration": "14m 47s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "2f643b97-1e8d-4761-b248-08da978a124a",
+    "lastSwitchOnDate": "2023-12-22T00:00:00+00:00",
+    "lastSwitchOnDuration": "5m",
+    "lastUploadDate": "2024-01-12T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-12-24T02:13:04+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "1d510886-d3e6-4824-5a49-08db95a78ed3",
+    "lastSwitchOnDate": "2071-10-23T00:00:00+00:00",
+    "lastSwitchOnDuration": "8m 44s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "803bea20-dd4b-438b-d4b6-08db73204ec7",
+    "lastSwitchOnDate": "2072-01-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 40m 30s",
+    "lastUploadDate": "2023-08-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "10c4a70e-e39b-42ea-d0dd-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-19T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 30m 36s",
+    "lastUploadDate": "2023-07-19T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "018d00c6-d430-4be9-393d-08dc34672e40",
+    "lastSwitchOnDate": "2023-06-27T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 2m 39s",
+    "lastUploadDate": "2023-06-27T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f4c93d58-163a-4cf3-2dcd-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-12T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 39m 6s",
+    "lastUploadDate": "2023-06-12T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "5fa6656e-3107-496a-3e8c-08db771cea5e",
+    "lastSwitchOnDate": "2023-07-05T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-05T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "1bac6443-16a6-4658-ad50-08da923a589c",
+    "lastSwitchOnDate": "2023-12-22T00:00:00+00:00",
+    "lastSwitchOnDuration": "5m",
+    "lastUploadDate": "2024-01-12T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-12-24T02:13:04+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "63877b78-f6ed-44fd-2dda-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "60fbe44a-973b-47fc-2dd8-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-14T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "a1f43c37-3771-418c-5a54-08db95a78ed3",
+    "lastSwitchOnDate": "2071-07-16T00:00:00+00:00",
+    "lastSwitchOnDuration": "8m 6s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "ccf96401-ee7a-478d-5a58-08db95a78ed3",
+    "lastSwitchOnDate": "2102-11-29T00:00:00+00:00",
+    "lastSwitchOnDuration": "9m 9s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "efcceaf0-8a6c-4ff6-7084-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 45m 3s",
+    "lastUploadDate": "2023-05-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "8c0e339f-b195-4570-7888-08db89fd3b64",
+    "lastSwitchOnDate": "2023-07-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 36m 24s",
+    "lastUploadDate": "2023-07-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "1043a1bf-2c96-4e86-708a-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "36m 28s",
+    "lastUploadDate": "2023-05-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f13f7a43-5cb8-48b3-2dd9-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-14T00:00:00+00:00",
+    "lastSwitchOnDuration": "36m 50s",
+    "lastUploadDate": "2023-06-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "0390bfa8-c4d5-418a-3543-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "11m 38s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "73c99252-d515-405e-354f-08dc34672e40",
+    "lastSwitchOnDate": "2021-12-18T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 17s",
+    "lastUploadDate": "2021-12-18T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "3949e62f-c6ce-49cf-d0d1-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-14T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "df3c8c42-73de-4dc7-160b-08db8c2ca21a",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4b451896-45eb-48bd-3537-08dc34672e40",
+    "lastSwitchOnDate": "2021-02-03T00:00:00+00:00",
+    "lastSwitchOnDuration": "7m 6s",
+    "lastUploadDate": "2021-02-03T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2021-02-03T10:02:03+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "309ab4aa-7a75-4715-f1ca-08db1ae18a21",
+    "lastSwitchOnDate": "2023-02-13T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-03-02T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "333a8cc9-1277-41fb-3559-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-10T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 28s",
+    "lastUploadDate": "2022-02-10T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "5f5e400f-08b7-4a87-788a-08db89fd3b64",
+    "lastSwitchOnDate": "2023-07-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 36m 24s",
+    "lastUploadDate": "2023-07-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "efc3b829-e21e-42e6-5a40-08db95a78ed3",
+    "lastSwitchOnDate": "2097-01-20T00:00:00+00:00",
+    "lastSwitchOnDuration": "23m 14s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "e690223e-643d-465e-353e-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "29m 33s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "dadb6515-dcb4-4d81-2dd5-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-13T00:00:00+00:00",
+    "lastSwitchOnDuration": "1h 36m 33s",
+    "lastUploadDate": "2023-06-13T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "c3f5615d-4e2f-40b1-d0cc-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-14T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "ca898cf2-20a0-4920-1609-08db8c2ca21a",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "6ce8b509-81d3-4ae3-5a4b-08db95a78ed3",
+    "lastSwitchOnDate": "2106-02-07T00:00:00+00:00",
+    "lastSwitchOnDuration": "23m 35s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d6b9dd66-0135-4427-3909-08dc34672e40",
+    "lastSwitchOnDate": "2023-01-19T00:00:00+00:00",
+    "lastSwitchOnDuration": "32s",
+    "lastUploadDate": "2023-01-19T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2021-02-02T11:02:35+00:00",
+      "status": "BumpTestPassed"
+    }
+  },
+  {
+    "deviceId": "3b5d659f-72a7-4136-b252-08da978a124a",
+    "lastSwitchOnDate": "2116-09-12T00:00:00+00:00",
+    "lastSwitchOnDuration": "13h 43m 13s",
+    "lastUploadDate": "2024-04-30T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-12-15T09:10:00+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "af9b3117-433d-4542-3547-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "10m 25s",
+    "lastUploadDate": "2022-02-28T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9e4c2e73-2ec6-496b-64e1-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 58s",
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9a384595-c081-4012-ea3d-08dad3bfed70",
+    "lastSwitchOnDate": "2023-10-24T00:00:00+00:00",
+    "lastSwitchOnDuration": "1d,3h,46m,25s",
+    "lastUploadDate": "2023-11-17T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2022-03-15T22:59:44+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "f8fee689-ae7b-4515-353f-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "27m 28s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "e4410263-9e93-4dde-5a57-08db95a78ed3",
+    "lastSwitchOnDate": "2050-10-23T00:00:00+00:00",
+    "lastSwitchOnDuration": "7m 41s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "a93788ec-beb1-4348-925a-08db7d25b1f8",
+    "lastSwitchOnDate": "2023-07-05T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-05T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "adb48642-8c01-4664-160a-08db8c2ca21a",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "0ee3b8b9-7a2d-4a1c-9503-08dae98179f7",
+    "lastSwitchOnDate": "2023-07-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "7f4eae37-fb4c-4a18-1607-08db8c2ca21a",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "3abaf89f-bb04-40e8-5a44-08db95a78ed3",
+    "lastSwitchOnDate": "2097-06-07T00:00:00+00:00",
+    "lastSwitchOnDuration": "16m 44s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "dde5c167-0301-4180-5a47-08db95a78ed3",
+    "lastSwitchOnDate": "2106-01-29T00:00:00+00:00",
+    "lastSwitchOnDuration": "9m 20s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "946098d2-96cf-4d2b-5a53-08db95a78ed3",
+    "lastSwitchOnDate": "2067-10-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "10m 27s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "8a186aec-017c-4a0d-b24c-08da978a124a",
+    "lastSwitchOnDate": "2022-09-16T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2022-09-16T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "0fe551a5-961d-4c1c-64ef-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-22T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-05T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f20ccc0f-98df-4d43-8e32-08db73c005b2",
+    "lastSwitchOnDate": "2023-06-27T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 15m 37s",
+    "lastUploadDate": "2023-06-27T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d683111a-a22c-45dd-69d6-08db63444c7d",
+    "lastSwitchOnDate": "2023-06-05T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 51s",
+    "lastUploadDate": "2023-06-05T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "75ac9cc1-b15a-4816-5a4a-08db95a78ed3",
+    "lastSwitchOnDate": "2104-07-04T00:00:00+00:00",
+    "lastSwitchOnDuration": "22m 58s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "28e73b75-0b55-42a3-b741-08db0d889d2d",
+    "lastSwitchOnDate": "2023-04-24T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-04-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "e8a092f5-2a2f-4de5-5a45-08db95a78ed3",
+    "lastSwitchOnDate": "2105-12-08T00:00:00+00:00",
+    "lastSwitchOnDuration": "23m 24s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "2d09201a-b0c6-453a-f223-08da544d33f7",
+    "lastSwitchOnDate": "2023-12-31T00:00:00+00:00",
+    "lastSwitchOnDuration": "5m",
+    "lastUploadDate": "2024-01-12T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2024-01-01T17:30:23+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "ae7c49e5-8c41-43c4-2dcc-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-12T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 39m 6s",
+    "lastUploadDate": "2023-06-12T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "8b150586-51c8-4dda-64d0-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "16f8cdcf-ba49-4a15-64d4-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "fb0723a9-46b3-422c-1608-08db8c2ca21a",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "5ce37c89-9906-4bbb-cf75-08db08cec1c6",
+    "lastSwitchOnDate": "2022-03-16T00:00:00+00:00",
+    "lastSwitchOnDuration": "13h 43m 13s",
+    "lastUploadDate": "2023-02-07T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "99b1142a-e877-4164-2dcf-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-13T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 31m 47s",
+    "lastUploadDate": "2023-06-13T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4144726c-fc8d-4205-6076-08db66aa2e29",
+    "lastSwitchOnDate": "2023-06-07T00:00:00+00:00",
+    "lastSwitchOnDuration": "1h 12m 45s",
+    "lastUploadDate": "2023-06-07T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f2f66aa2-9621-4224-355c-08dc34672e40",
+    "lastSwitchOnDate": "2023-05-24T00:00:00+00:00",
+    "lastSwitchOnDuration": "1h 18m 52s",
+    "lastUploadDate": "2023-05-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d5dffd0e-4902-4c93-64e2-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9ec67391-9d96-4995-64cd-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 58s",
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4fb30525-fa1c-4986-64d7-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 58s",
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "726bfbd2-96f7-462c-cf7b-08db08cec1c6",
+    "lastSwitchOnDate": "2023-04-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-19T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "3ff6f531-9758-4440-706e-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 36m 5s",
+    "lastUploadDate": "2023-05-25T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "1a2d16a4-3b8b-4895-160c-08db8c2ca21a",
+    "lastSwitchOnDate": "2024-03-18T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2024-03-18T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "ad2d53ab-084c-45e5-5a59-08db95a78ed3",
+    "lastSwitchOnDate": "2096-07-06T00:00:00+00:00",
+    "lastSwitchOnDuration": "13h 43m 13s",
+    "lastUploadDate": "2023-10-25T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2022-03-16T17:03:40+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "7f2a1d09-90f1-48d7-4a69-08db0daedb0f",
+    "lastSwitchOnDate": "2023-02-22T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-02-22T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "fdcf90ac-d414-4ece-64db-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "db45752e-488c-4e1c-7d35-08db246bbef0",
+    "lastSwitchOnDate": "2023-03-14T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 59s",
+    "lastUploadDate": "2023-03-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f0f0b50f-d6b7-400d-d0de-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-19T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 30m 36s",
+    "lastUploadDate": "2023-07-19T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "62cfdd02-b868-4b3d-69d4-08db63444c7d",
+    "lastSwitchOnDate": "2023-06-04T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 9s",
+    "lastUploadDate": "2023-06-04T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "7fd4ff96-18a2-4556-353b-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "15m 28s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "14072039-754a-47e2-8e2e-08db73c005b2",
+    "lastSwitchOnDate": "2023-06-27T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 15m 37s",
+    "lastUploadDate": "2023-06-27T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "ac30b59f-2db8-4769-355e-08dc34672e40",
+    "lastSwitchOnDate": "2023-05-24T00:00:00+00:00",
+    "lastSwitchOnDuration": "1m 13s",
+    "lastUploadDate": "2023-05-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "3db32a30-db90-41a5-0e38-08daa069c7a8",
+    "lastSwitchOnDate": "2019-06-13T00:00:00+00:00",
+    "lastSwitchOnDuration": "1s",
+    "lastUploadDate": "2023-02-06T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f34c3be9-9389-42b6-87b3-08dac21e7c69",
+    "lastSwitchOnDate": "2022-06-15T00:00:00+00:00",
+    "lastSwitchOnDuration": "1m 49s",
+    "lastUploadDate": "2022-11-10T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f8651ae4-f519-419f-f109-08db89044431",
+    "lastSwitchOnDate": "2023-07-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 16m 34s",
+    "lastUploadDate": "2023-07-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "c4b15868-9cc7-4ecc-5a3e-08db95a78ed3",
+    "lastSwitchOnDate": "2084-02-13T00:00:00+00:00",
+    "lastSwitchOnDuration": "11m 5s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4b0b6ffd-ba4e-4514-64d6-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "cc761594-ae2d-4247-353c-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "13m 12s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "ccf9c520-dd7d-4e12-64ce-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 58s",
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "855d66db-3ff5-4247-7d32-08db246bbef0",
+    "lastSwitchOnDate": "2023-03-14T00:00:00+00:00",
+    "lastSwitchOnDuration": "1m 0s",
+    "lastUploadDate": "2023-03-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d5c73634-992c-41a0-f299-08db8110c79e",
+    "lastSwitchOnDate": "2023-07-12T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-12T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d0f5daba-fcea-4324-42f9-08dc68de9c1b",
+    "lastSwitchOnDate": "2024-04-30T00:00:00+00:00",
+    "lastSwitchOnDuration": "7116d 9h 36m 16s",
+    "lastUploadDate": "2024-04-30T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2024-04-29T08:59:42+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "5c24f3d3-cf79-431c-7070-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 36m 5s",
+    "lastUploadDate": "2023-05-25T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9e551ff8-42e6-4027-64d3-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 58s",
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "6ff7a22d-ddb6-4346-cf73-08db08cec1c6",
+    "lastSwitchOnDate": "2024-04-04T00:00:00+00:00",
+    "lastSwitchOnDuration": "1m,40s",
+    "lastUploadDate": "2024-04-24T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2024-03-25T01:30:23+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "2c1b692f-aa72-46fb-354d-08dc34672e40",
+    "lastSwitchOnDate": "2021-12-01T00:00:00+00:00",
+    "lastSwitchOnDuration": "14m 55s",
+    "lastUploadDate": "2021-12-18T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "6c9af81b-c43f-4bd2-b2bd-08da978a124a",
+    "lastSwitchOnDate": "2023-08-14T00:00:00+00:00",
+    "lastSwitchOnDuration": "39m 10s",
+    "lastUploadDate": "2023-08-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "1672567c-2f78-4a48-5cab-08dbd626c4a6",
+    "lastSwitchOnDate": "2023-10-26T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-10-26T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-10-26T13:30:56+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "a769f789-32fd-4f27-7072-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 36m 5s",
+    "lastUploadDate": "2023-05-25T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d848a39e-8f24-47bb-6080-08db66aa2e29",
+    "lastSwitchOnDate": "2023-06-07T00:00:00+00:00",
+    "lastSwitchOnDuration": "1h 25m 41s",
+    "lastUploadDate": "2023-06-07T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "c94daeca-d822-428a-7dca-08dbcbbcc5f7",
+    "lastSwitchOnDate": "2023-10-16T00:00:00+00:00",
+    "lastSwitchOnDuration": "53m 48s",
+    "lastUploadDate": "2023-10-16T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-10-16T12:23:43+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "5368699e-bdba-45a5-3541-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "18m 58s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d0a9ed8f-0445-409f-64df-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "8731e97b-df01-4e9c-354a-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 2s",
+    "lastUploadDate": "2022-02-28T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "e58c2875-93d6-4975-d0e0-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-19T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 58m 59s",
+    "lastUploadDate": "2023-07-19T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "a54c9170-a491-4238-245b-08dc44d0cf46",
+    "lastSwitchOnDate": "1970-01-01T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2024-03-19T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-03-01T08:30:07+00:00",
+      "status": "BumpTestPassed"
+    }
+  },
+  {
+    "deviceId": "005bbcd0-fb6d-4244-7074-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 36m 5s",
+    "lastUploadDate": "2023-05-25T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "91611f87-84a5-4dcd-69d7-08db63444c7d",
+    "lastSwitchOnDate": "2023-06-05T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 51s",
+    "lastUploadDate": "2023-06-05T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "332db596-ce60-4a00-d0db-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-19T00:00:00+00:00",
+    "lastSwitchOnDuration": "10m 4s",
+    "lastUploadDate": "2023-07-19T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d6848769-789d-4102-9502-08dae98179f7",
+    "lastSwitchOnDate": "2021-12-01T00:00:00+00:00",
+    "lastSwitchOnDuration": "18962d,12h,59m",
+    "lastUploadDate": "2023-04-27T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "0eda537d-23b9-455a-5a4e-08db95a78ed3",
+    "lastSwitchOnDate": "2100-09-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "2m 26s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "5b05cdd7-72d8-47de-354e-08dc34672e40",
+    "lastSwitchOnDate": "2021-12-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "4m 39s",
+    "lastUploadDate": "2021-12-28T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "aa7a59b3-5c43-48e0-d0d4-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-17T00:00:00+00:00",
+    "lastSwitchOnDuration": "5h 4m 16s",
+    "lastUploadDate": "2023-07-17T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "41af0811-d85c-43cc-6075-08db66aa2e29",
+    "lastSwitchOnDate": "2023-06-07T00:00:00+00:00",
+    "lastSwitchOnDuration": "1h 45m 50s",
+    "lastUploadDate": "2023-06-07T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "5b40caee-8d54-457c-64cf-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 58s",
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4a0c7b49-a023-4d7f-8e30-08db73c005b2",
+    "lastSwitchOnDate": "2023-06-27T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 15m 37s",
+    "lastUploadDate": "2023-06-27T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "506979ec-f836-48e4-3556-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-10T00:00:00+00:00",
+    "lastSwitchOnDuration": "23m 52s",
+    "lastUploadDate": "2022-02-10T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d0eb525d-84b1-4f9e-8e31-08db73c005b2",
+    "lastSwitchOnDate": "2023-06-27T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-27T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d33c15b0-dcbd-4389-69d8-08db63444c7d",
+    "lastSwitchOnDate": "2023-06-05T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 51s",
+    "lastUploadDate": "2023-06-05T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "00857cb1-1c4c-4787-64d1-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 58s",
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "a4797987-646b-46b9-ceb8-08daaa85680d",
+    "lastSwitchOnDate": "2023-06-22T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-22T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "8f4461e9-046a-4f4d-f222-08da544d33f7",
+    "lastSwitchOnDate": "2116-09-12T00:00:00+00:00",
+    "lastSwitchOnDuration": "5h 9m 6s",
+    "lastUploadDate": "2023-08-08T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9f8cf970-4c34-43bf-3553-08dc34672e40",
+    "lastSwitchOnDate": "2021-12-27T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 41s",
+    "lastUploadDate": "2021-12-27T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "62b31020-0e3e-44c9-788c-08db89fd3b64",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 54m 55s",
+    "lastUploadDate": "2023-07-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "050a5e74-b76b-4033-69d5-08db63444c7d",
+    "lastSwitchOnDate": "2023-06-05T00:00:00+00:00",
+    "lastSwitchOnDuration": "37m 35s",
+    "lastUploadDate": "2023-06-05T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "b48bcbde-2ff4-4a41-1254-08dbfc6e9c39",
+    "lastSwitchOnDate": "2021-05-19T00:00:00+00:00",
+    "lastSwitchOnDuration": "17m 17s",
+    "lastUploadDate": "2021-05-19T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "a08390e0-9aa2-4923-2459-08dc44d0cf46",
+    "lastSwitchOnDate": "2024-03-20T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2024-03-20T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "b1205491-456c-494e-d0cb-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-13T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-13T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "1c4c204c-9a4e-4871-8e2c-08db73c005b2",
+    "lastSwitchOnDate": "2023-06-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 29m 6s",
+    "lastUploadDate": "2023-06-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "ee85bb7c-3e2b-4259-2dca-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-12T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 39m 6s",
+    "lastUploadDate": "2023-06-12T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "5855a8bb-5c79-4fe0-2dd7-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-13T00:00:00+00:00",
+    "lastSwitchOnDuration": "1h 36m 33s",
+    "lastUploadDate": "2023-06-13T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "ead12fc4-891a-4cf1-f296-08db8110c79e",
+    "lastSwitchOnDate": "2023-07-13T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-13T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9e9055bb-585d-4656-1a49-08db68b08774",
+    "lastSwitchOnDate": "2023-06-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "5h 1m 6s",
+    "lastUploadDate": "2023-06-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "05db3706-9766-4513-9509-08dae98179f7",
+    "lastSwitchOnDate": "2023-03-15T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-03-15T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "bab2939d-2f1d-4e76-64e0-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "19m 58s",
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "6a448981-fb33-4120-d0d9-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-18T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 48m 38s",
+    "lastUploadDate": "2023-07-18T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "a5647768-daf3-4abf-353a-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "16m 54s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4dc425ce-4ee1-4939-7dc9-08dbcbbcc5f7",
+    "lastSwitchOnDate": "2023-10-13T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 49m 32s",
+    "lastUploadDate": "2023-10-13T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-09-19T13:42:24+00:00",
+      "status": "BumpTestPassed"
+    }
+  },
+  {
+    "deviceId": "6907eccc-6412-43e8-3554-08dc34672e40",
+    "lastSwitchOnDate": "2021-12-18T00:00:00+00:00",
+    "lastSwitchOnDuration": "31m 22s",
+    "lastUploadDate": "2021-12-18T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "5eee04b5-b4ca-4895-7078-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-26T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-05-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "afffae52-8f25-4b12-788e-08db89fd3b64",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 54m 55s",
+    "lastUploadDate": "2023-07-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9cc255a8-a88f-4400-6b1f-08db60eff646",
+    "lastSwitchOnDate": "2023-05-31T00:00:00+00:00",
+    "lastSwitchOnDuration": "57m 51s",
+    "lastUploadDate": "2023-05-31T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "6b9035dc-1f39-4580-d0dc-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-19T00:00:00+00:00",
+    "lastSwitchOnDuration": "7h 30m 36s",
+    "lastUploadDate": "2023-07-19T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "2d512fdb-f0d3-41ef-2ddc-08db6b6f6768",
+    "lastSwitchOnDate": "2023-06-14T00:00:00+00:00",
+    "lastSwitchOnDuration": "36m 50s",
+    "lastUploadDate": "2023-06-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "b32cc1f2-83ba-4882-8e28-08db73c005b2",
+    "lastSwitchOnDate": "2023-06-23T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-23T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "5255a960-8da5-414e-3932-08dc34672e40",
+    "lastSwitchOnDate": "2023-08-18T00:00:00+00:00",
+    "lastSwitchOnDuration": "1m 59s",
+    "lastUploadDate": "2023-09-04T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2022-08-29T06:25:15+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "7092b44c-5a50-40dc-3558-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-10T00:00:00+00:00",
+    "lastSwitchOnDuration": "6m 44s",
+    "lastUploadDate": "2022-02-10T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "76e0787d-a0a4-4bb7-b26f-08da978a124a",
+    "lastSwitchOnDate": "2023-12-24T00:00:00+00:00",
+    "lastSwitchOnDuration": "5h 31m 24s",
+    "lastUploadDate": "2024-01-12T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-12-24T12:26:59+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "4b774048-cd07-49e1-c4d9-08dab7ff9222",
+    "lastSwitchOnDate": "2023-02-06T00:00:00+00:00",
+    "lastSwitchOnDuration": "50m 14s",
+    "lastUploadDate": "2023-04-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "7cb59161-be8a-4445-788b-08db89fd3b64",
+    "lastSwitchOnDate": "2023-07-24T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-24T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "2ba107a7-22fa-4a27-5a50-08db95a78ed3",
+    "lastSwitchOnDate": "2077-11-27T00:00:00+00:00",
+    "lastSwitchOnDuration": "9m 30s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "350f33e3-9e9a-4b4d-63e1-08da964355ae",
+    "lastSwitchOnDate": "2116-09-12T00:00:00+00:00",
+    "lastSwitchOnDuration": "5h 9m 6s",
+    "lastUploadDate": "2023-08-08T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "9cfbfa6b-41da-462c-7889-08db89fd3b64",
+    "lastSwitchOnDate": "2023-07-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 36m 24s",
+    "lastUploadDate": "2023-07-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "658a52dd-06ba-4fbb-5a51-08db95a78ed3",
+    "lastSwitchOnDate": "2101-10-13T00:00:00+00:00",
+    "lastSwitchOnDuration": "9m 29s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "6624cadb-6a0e-49cf-3542-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "11m 32s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "3bb310ce-2d40-4eb5-355d-08dc34672e40",
+    "lastSwitchOnDate": "2023-05-22T00:00:00+00:00",
+    "lastSwitchOnDuration": "16m 16s",
+    "lastUploadDate": "2023-05-22T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4b414d6b-6453-4ae3-5a4d-08db95a78ed3",
+    "lastSwitchOnDate": "2023-07-14T00:00:00+00:00",
+    "lastSwitchOnDuration": "1h 36m 6s",
+    "lastUploadDate": "2024-02-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "adff7f75-66af-417f-7d34-08db246bbef0",
+    "lastSwitchOnDate": "2023-03-14T00:00:00+00:00",
+    "lastSwitchOnDuration": "14m 11s",
+    "lastUploadDate": "2023-03-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "8430b040-8b47-47b2-8e2f-08db73c005b2",
+    "lastSwitchOnDate": "2023-06-27T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 15m 37s",
+    "lastUploadDate": "2023-06-27T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "fabf556a-c111-48e5-3555-08dc34672e40",
+    "lastSwitchOnDate": "2021-12-18T00:00:00+00:00",
+    "lastSwitchOnDuration": "2m 19s",
+    "lastUploadDate": "2021-12-18T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "0827168e-124b-430c-354b-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "2m 37s",
+    "lastUploadDate": "2022-02-28T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "170808cc-430f-458a-b2be-08da978a124a",
+    "lastSwitchOnDate": "2022-09-20T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2022-09-20T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "88e7d4e6-d8f3-4458-0e2d-08daa069c7a8",
+    "lastSwitchOnDate": "2022-12-22T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2022-12-23T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "19e3f12e-ed1e-44ef-63e3-08da964355ae",
+    "lastSwitchOnDate": "2116-09-12T00:00:00+00:00",
+    "lastSwitchOnDuration": "5h 9m 6s",
+    "lastUploadDate": "2023-08-08T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "b0df2e72-7c1a-45d6-80f2-08dafdf4c892",
+    "lastSwitchOnDate": "2023-01-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 53s",
+    "lastUploadDate": "2023-01-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "dd20c38b-df3c-4614-f294-08db8110c79e",
+    "lastSwitchOnDate": "2023-07-10T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-10T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "8b79da8c-d6aa-419b-5a5a-08db95a78ed3",
+    "lastSwitchOnDate": "2104-09-16T00:00:00+00:00",
+    "lastSwitchOnDuration": "23m 45s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "7285d2c5-df85-4e93-f708-08dae4012088",
+    "lastSwitchOnDate": "2023-06-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 7m 23s",
+    "lastUploadDate": "2023-06-28T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f8956bca-73a5-4fd1-69d1-08db63444c7d",
+    "lastSwitchOnDate": "2023-06-02T00:00:00+00:00",
+    "lastSwitchOnDuration": "1h 55m 41s",
+    "lastUploadDate": "2023-06-02T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "8163dcfc-5f14-49a3-d0df-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-19T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 58m 59s",
+    "lastUploadDate": "2023-07-19T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "eb9669f9-7a26-4791-7dcb-08dbcbbcc5f7",
+    "lastSwitchOnDate": "2023-10-13T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-10-13T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-10-13T12:20:28+00:00",
+      "status": "BumpTestPassed"
+    }
+  },
+  {
+    "deviceId": "97b1b455-ca87-47a9-ac3f-08db41777cb5",
+    "lastSwitchOnDate": "2023-04-20T00:00:00+00:00",
+    "lastSwitchOnDuration": "7m 26s",
+    "lastUploadDate": "2023-04-20T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4ed62e7d-40d9-4945-d0ce-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 47m 57s",
+    "lastUploadDate": "2023-07-25T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "5007e1d2-f68a-4162-5a41-08db95a78ed3",
+    "lastSwitchOnDate": "2084-01-07T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 17s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "0fb4f4bc-d6cf-441f-3545-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "11m 29s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "529d804c-58ac-4a29-63fa-08da964355ae",
+    "lastSwitchOnDate": "2022-09-16T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2022-09-16T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "eff57b75-7478-46a2-3546-08dc34672e40",
+    "lastSwitchOnDate": "2023-04-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "2m 42s",
+    "lastUploadDate": "2023-04-28T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "2b243c39-4272-4cec-353d-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "7m 36s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "dea64315-431a-4a5e-9262-08db7d25b1f8",
+    "lastSwitchOnDate": "2023-10-13T00:00:00+00:00",
+    "lastSwitchOnDuration": "24m 16s",
+    "lastUploadDate": "2023-10-13T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-09-20T12:54:50+00:00",
+      "status": "BumpTestPassed"
+    }
+  },
+  {
+    "deviceId": "98e661aa-e7bc-4981-3557-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-10T00:00:00+00:00",
+    "lastSwitchOnDuration": "1m 18s",
+    "lastUploadDate": "2022-02-10T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "632519bd-7d0f-4127-7071-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 36m 5s",
+    "lastUploadDate": "2023-05-25T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "322e59fb-e0f8-452e-3540-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-09T00:00:00+00:00",
+    "lastSwitchOnDuration": "12m 19s",
+    "lastUploadDate": "2022-02-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "0c21b7d8-a834-4fd9-354c-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "11m 53s",
+    "lastUploadDate": "2022-02-28T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "2f0bf29e-03ec-4d36-668b-08db0836c93e",
+    "lastSwitchOnDate": "2022-03-16T00:00:00+00:00",
+    "lastSwitchOnDuration": "13h 43m 13s",
+    "lastUploadDate": "2023-02-06T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "f65b7eb5-5cb9-4b13-e80e-08dac08cfa08",
+    "lastSwitchOnDate": "2023-02-22T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 50s",
+    "lastUploadDate": "2023-02-22T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "a7130192-e9e4-43cf-cf76-08db08cec1c6",
+    "lastSwitchOnDate": "2024-04-15T00:00:00+00:00",
+    "lastSwitchOnDuration": "5h 31m 24s",
+    "lastUploadDate": "2024-04-24T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2024-04-15T22:40:19+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "81c45621-6d45-4d1c-7083-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 44m 11s",
+    "lastUploadDate": "2023-05-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "78406856-524a-49f6-d0c8-08db836b61ac",
+    "lastSwitchOnDate": "2023-07-13T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-13T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "b11fca0f-56d4-4426-9505-08dae98179f7",
+    "lastSwitchOnDate": "2024-02-20T00:00:00+00:00",
+    "lastSwitchOnDuration": "5h 31m 24s",
+    "lastUploadDate": "2024-04-08T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2024-02-20T09:20:19+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "35d9d63f-59ce-4524-7075-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 36m 5s",
+    "lastUploadDate": "2023-05-25T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "c27266ff-1e77-476c-393a-08dc34672e40",
+    "lastSwitchOnDate": "2022-10-31T00:00:00+00:00",
+    "lastSwitchOnDuration": "1d 3h 30m 48s",
+    "lastUploadDate": "2022-10-31T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2022-07-14T18:52:52+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "1c70ac38-3814-447a-3549-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "10m 17s",
+    "lastUploadDate": "2022-02-28T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "04838fce-b93c-4413-80f1-08dafdf4c892",
+    "lastSwitchOnDate": "2023-10-16T00:00:00+00:00",
+    "lastSwitchOnDuration": "3m 54s",
+    "lastUploadDate": "2023-10-16T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-10-16T11:06:21+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "ad743aca-6c9d-4fac-2791-08da9b963b5c",
+    "lastSwitchOnDate": "2022-09-21T00:00:00+00:00",
+    "lastSwitchOnDuration": "1h 51m 5s",
+    "lastUploadDate": "2022-09-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "283501a7-dcc4-4a88-21a0-08db02a586e9",
+    "lastSwitchOnDate": "2023-06-22T00:00:00+00:00",
+    "lastSwitchOnDuration": "1m 53s",
+    "lastUploadDate": "2023-06-22T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "8ef54307-3eb1-4799-355a-08dc34672e40",
+    "lastSwitchOnDate": "2022-02-10T00:00:00+00:00",
+    "lastSwitchOnDuration": "7m 47s",
+    "lastUploadDate": "2022-02-10T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "06bcf01d-f28a-4347-8e2b-08db73c005b2",
+    "lastSwitchOnDate": "2023-06-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "3h 29m 6s",
+    "lastUploadDate": "2023-06-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "7b2e8bc6-4749-49e3-6b25-08db60eff646",
+    "lastSwitchOnDate": "2023-05-31T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-05-31T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "34694132-0ded-498b-3957-08dc34672e40",
+    "lastSwitchOnDate": "2024-01-05T00:00:00+00:00",
+    "lastSwitchOnDuration": "23m 27s",
+    "lastUploadDate": "2024-01-31T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "d4d07378-e8c1-4b70-7775-08db1a1753cd",
+    "lastSwitchOnDate": "2024-01-02T00:00:00+00:00",
+    "lastSwitchOnDuration": "5h 16m 5s",
+    "lastUploadDate": "2024-03-04T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "dafcbff5-8cd1-4cef-706d-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 36m 5s",
+    "lastUploadDate": "2023-05-25T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "4b2591df-c090-4ae1-d0d2-08db836b61ac",
+    "lastSwitchOnDate": "1970-01-01T00:00:00+00:00",
+    "lastSwitchOnDuration": "1m 39s",
+    "lastUploadDate": "2023-07-18T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "00875fb5-c4e9-44c2-5a55-08db95a78ed3",
+    "lastSwitchOnDate": "2071-01-05T00:00:00+00:00",
+    "lastSwitchOnDuration": "2m 14s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "c4c3aafe-2e31-4036-7dc6-08dbcbbcc5f7",
+    "lastSwitchOnDate": "2023-10-13T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-10-13T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-09-21T10:53:06+00:00",
+      "status": "BumpTestPassed"
+    }
+  },
+  {
+    "deviceId": "8284cf55-f714-496a-b2a5-08da978a124a",
+    "lastSwitchOnDate": "2022-09-20T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2022-09-20T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "2dba51b7-5be1-4427-7073-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-25T00:00:00+00:00",
+    "lastSwitchOnDuration": "4h 36m 5s",
+    "lastUploadDate": "2023-05-25T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "0055f2ec-decd-4ab9-925d-08db7d25b1f8",
+    "lastSwitchOnDate": "2023-07-05T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-07-05T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "e5d567ad-9c06-4dbc-7d33-08db246bbef0",
+    "lastSwitchOnDate": "2023-03-14T00:00:00+00:00",
+    "lastSwitchOnDuration": "1m 0s",
+    "lastUploadDate": "2023-03-14T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "b1b7c7ed-eb39-4793-7082-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-26T00:00:00+00:00",
+    "lastSwitchOnDuration": "2h 45m 3s",
+    "lastUploadDate": "2023-05-26T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "aca01501-913f-4e7d-5a56-08db95a78ed3",
+    "lastSwitchOnDate": "2069-12-06T00:00:00+00:00",
+    "lastSwitchOnDuration": "10m 14s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "31fd8c7b-3fd6-4696-7dc8-08dbcbbcc5f7",
+    "lastSwitchOnDate": "2023-10-26T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-10-26T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-10-26T13:44:18+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "56e9e2bc-5747-480d-7091-08db5ce615c3",
+    "lastSwitchOnDate": "2023-05-29T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-05-29T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "6caafe6a-61ff-41ec-64d2-08db7149dbd7",
+    "lastSwitchOnDate": "2023-06-21T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-06-21T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "b30277ca-9b6f-4db8-5a3f-08db95a78ed3",
+    "lastSwitchOnDate": "2097-04-30T00:00:00+00:00",
+    "lastSwitchOnDuration": "26m 6s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "1bc5a533-4740-4414-7dcc-08dbcbbcc5f7",
+    "lastSwitchOnDate": "2023-10-16T00:00:00+00:00",
+    "lastSwitchOnDuration": null,
+    "lastUploadDate": "2023-10-16T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2023-10-16T10:59:29+00:00",
+      "status": "BumpTestFailed"
+    }
+  },
+  {
+    "deviceId": "f0214a3f-0b70-43ee-5a4c-08db95a78ed3",
+    "lastSwitchOnDate": "2067-03-11T00:00:00+00:00",
+    "lastSwitchOnDuration": "9m 12s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "30e7a82f-b708-4908-5a43-08db95a78ed3",
+    "lastSwitchOnDate": "2075-10-18T00:00:00+00:00",
+    "lastSwitchOnDuration": "21m 49s",
+    "lastUploadDate": "2023-08-09T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "52c1f2b7-935d-4e14-9504-08dae98179f7",
+    "lastSwitchOnDate": "2021-01-05T00:00:00+00:00",
+    "lastSwitchOnDuration": "7m 39s",
+    "lastUploadDate": "2023-02-03T00:00:00",
+    "lastBumpTestInfo": null
+  },
+  {
+    "deviceId": "aff77e16-ade1-4010-42fa-08dc68de9c1b",
+    "lastSwitchOnDate": "2024-04-28T00:00:00+00:00",
+    "lastSwitchOnDuration": "12d,7h,27m,57s",
+    "lastUploadDate": "2024-05-02T00:00:00",
+    "lastBumpTestInfo": {
+      "dateTime": "2024-05-02T05:20:21+00:00",
+      "status": "BumpTestFailed"
+    }
+  }
+]
