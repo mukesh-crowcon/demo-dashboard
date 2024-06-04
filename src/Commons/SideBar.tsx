@@ -5,16 +5,20 @@ import {
   DialogPanel,
 } from "@headlessui/react";
 import { XMarkIcon, Cog6ToothIcon } from "@heroicons/react/24/outline";
-import { navigation, classNames, teams } from "./utils";
+import { navigation, classNames } from "./utils";
 
 type Props = {
   isSidebarOpen: boolean;
   setSidebarOpen: (open: boolean) => void;
+  activePage: string;
+  setActivePage: (active: string) => void;
 };
 
 export default function SideBar({
   isSidebarOpen: sidebarOpen,
   setSidebarOpen,
+  activePage,
+  setActivePage,
 }: Props) {
   return (
     <>
@@ -86,9 +90,11 @@ export default function SideBar({
                           className="-mx-2 space-y-1"
                         >
                           {navigation.map((item) => (
-                            <li key={item.name}>
+                            <li
+                              key={item.name}
+                              onClick={() => setActivePage(item.name)}
+                            >
                               <a
-                                href={item.href}
                                 className={classNames(
                                   item.current
                                     ? "bg-gray-50 text-indigo-600"
@@ -111,41 +117,7 @@ export default function SideBar({
                           ))}
                         </ul>
                       </li>
-                      <li>
-                        <div className="text-xs font-semibold leading-6 text-gray-400">
-                          Your teams
-                        </div>
-                        <ul
-                          role="list"
-                          className="-mx-2 mt-2 space-y-1"
-                        >
-                          {teams.map((team) => (
-                            <li key={team.name}>
-                              <a
-                                href={team.href}
-                                className={classNames(
-                                  team.current
-                                    ? "bg-gray-50 text-indigo-600"
-                                    : "text-gray-700 hover:text-indigo-600 hover:bg-gray-50",
-                                  "group flex gap-x-3 rounded-md p-2 text-sm leading-6 font-semibold"
-                                )}
-                              >
-                                <span
-                                  className={classNames(
-                                    team.current
-                                      ? "text-indigo-600 border-indigo-600"
-                                      : "text-gray-400 border-gray-200 group-hover:border-indigo-600 group-hover:text-indigo-600",
-                                    "flex h-6 w-6 shrink-0 items-center justify-center rounded-lg border text-[0.625rem] font-medium bg-white"
-                                  )}
-                                >
-                                  {team.initial}
-                                </span>
-                                <span className="truncate">{team.name}</span>
-                              </a>
-                            </li>
-                          ))}
-                        </ul>
-                      </li>
+
                       <li className="mt-auto">
                         <a
                           href="#"
@@ -168,7 +140,7 @@ export default function SideBar({
       </Transition>
 
       {/* Static sidebar for desktop */}
-      <div className="hidden lg:fixed lg:inset-y-0 lg:z-10 lg:flex lg:w-72 lg:flex-col">
+      <div className="hidden lg:fixed lg:inset-y-0 lg:z-10 lg:flex lg:w-[200px] lg:flex-col">
         {/* Sidebar component, swap this element with another sidebar if you like */}
         <div className="flex grow flex-col gap-y-5 overflow-y-auto border-r border-gray-200 bg-white px-6 pb-4">
           <div className="flex h-16 shrink-0 items-center">
@@ -189,12 +161,13 @@ export default function SideBar({
                   className="-mx-2 space-y-1"
                 >
                   {navigation.map((item) => (
-                    <li key={item.name}>
+                    <li
+                      key={item.name}
+                      onClick={() => setActivePage(item.name)}
+                    >
                       <a
-                        href={item.href}
                         className={classNames(
-                          item.name.toLocaleLowerCase() ===
-                            window.location.pathname.split("/:")[1]
+                          item.name === activePage
                             ? "bg-gray-50 text-indigo-600"
                             : "text-gray-700 hover:text-indigo-600 hover:bg-gray-50",
                           "group flex gap-x-3 rounded-md p-2 text-sm leading-6 font-semibold"
@@ -202,8 +175,7 @@ export default function SideBar({
                       >
                         <item.icon
                           className={classNames(
-                            item.name.toLocaleLowerCase() ===
-                              window.location.hash.split("/:")[1]
+                            item.name === activePage
                               ? "text-indigo-600"
                               : "text-gray-400 group-hover:text-indigo-600",
                             "h-6 w-6 shrink-0"

@@ -47,7 +47,7 @@ const TableThree = () => {
                 {" "}
                 Description <ArrowDownIcon className="w-5 h-4" />
               </th>
-              <th>Transaction ID</th>
+              <th>Transaction</th>
               <th>Type</th>
               <th>Card</th>
               <th>Date</th>

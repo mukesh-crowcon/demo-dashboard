@@ -172,7 +172,7 @@ const stats = [
 
 export default function DataOne() {
   return (
-    <div className=" grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-2">
+    <div className=" grid grid-cols-1 gap-4 sm:grid-cols-2  lg:grid-cols-2">
       {stats.map((item) => (
         <div
           key={item.id}
@@ -192,76 +192,78 @@ export default function DataOne() {
             </Popover>
           </div>
           <div>
-            <div className="absolute rounded-md bg-indigo-500 p-3">
+            <div className="absolute rounded-md bg-indigo-500 p-3 lg:max-xl:hidden block">
               <item.icon
-                className="h-6 w-6 text-white"
+                className="h-6 w-6 text-white "
                 aria-hidden="true"
               />
             </div>
-            <p className="ml-16 truncate text-sm font-medium text-gray-500">
+            <p className="lg:max-xl:ml-0 ml-16 truncate text-sm font-medium text-gray-500">
               {item.name}
             </p>
           </div>
-          <div className="ml-16 flex items-baseline pb-6 sm:pb-7">
+          <div className="lg:max-xl:ml-0 ml-16 flex lg:max-xl:flex-col  items-baseline pb-6 sm:pb-7">
             <p className="text-2xl font-semibold text-gray-900">{item.stat}</p>
-            <p
-              className={classNames(
-                item.active.changeType === "increase"
-                  ? "text-green-600"
-                  : "text-red-600",
-                "ml-2 flex items-baseline text-sm font-semibold"
-              )}
-            >
-              {item.active.changeType === "increase" ? (
-                <ArrowUpIcon
-                  className="h-5 w-5 flex-shrink-0 self-center text-green-500"
-                  aria-hidden="true"
-                />
-              ) : (
-                <ArrowDownIcon
-                  className="h-5 w-5 flex-shrink-0 self-center text-red-500"
-                  aria-hidden="true"
-                />
-              )}
+            <div className="flex flex-row justify-between items-center lg:max-xl:gap-3 gap-0">
+              <p
+                className={classNames(
+                  item.active.changeType === "increase"
+                    ? "text-green-600"
+                    : "text-red-600",
+                  "lg:max-xl:ml-0 ml-2 flex items-baseline text-sm font-semibold"
+                )}
+              >
+                {item.active.changeType === "increase" ? (
+                  <ArrowUpIcon
+                    className="h-5 w-5 flex-shrink-0 self-center text-green-500"
+                    aria-hidden="true"
+                  />
+                ) : (
+                  <ArrowDownIcon
+                    className="h-5 w-5 flex-shrink-0 self-center text-red-500"
+                    aria-hidden="true"
+                  />
+                )}
 
-              <span className="sr-only">
-                {" "}
-                {item.active.changeType === "increase"
-                  ? "Increased"
-                  : "Decreased"}{" "}
-                by{" "}
-              </span>
-              {item.active.change}
-            </p>
-            <p
-              className={classNames(
-                item.inactive.changeType === "increase"
-                  ? "text-green-600"
-                  : "text-red-600",
-                "ml-2 flex items-baseline text-sm font-semibold"
-              )}
-            >
-              {item.inactive.changeType === "increase" ? (
-                <ArrowUpIcon
-                  className="h-5 w-5 flex-shrink-0 self-center text-green-500"
-                  aria-hidden="true"
-                />
-              ) : (
-                <ArrowDownIcon
-                  className="h-5 w-5 flex-shrink-0 self-center text-red-500"
-                  aria-hidden="true"
-                />
-              )}
+                <span className="sr-only">
+                  {" "}
+                  {item.active.changeType === "increase"
+                    ? "Increased"
+                    : "Decreased"}{" "}
+                  by{" "}
+                </span>
+                {item.active.change}
+              </p>
+              <p
+                className={classNames(
+                  item.inactive.changeType === "increase"
+                    ? "text-green-600"
+                    : "text-red-600",
+                  "lg:max-xl:ml-0 ml-2 flex items-baseline text-sm font-semibold"
+                )}
+              >
+                {item.inactive.changeType === "increase" ? (
+                  <ArrowUpIcon
+                    className="h-5 w-5 flex-shrink-0 self-center text-green-500"
+                    aria-hidden="true"
+                  />
+                ) : (
+                  <ArrowDownIcon
+                    className="h-5 w-5 flex-shrink-0 self-center text-red-500"
+                    aria-hidden="true"
+                  />
+                )}
 
-              <span className="sr-only">
-                {" "}
-                {item.inactive.changeType === "increase"
-                  ? "Increased"
-                  : "Decreased"}{" "}
-                by{" "}
-              </span>
-              {item.inactive.change}
-            </p>
+                <span className="sr-only">
+                  {" "}
+                  {item.inactive.changeType === "increase"
+                    ? "Increased"
+                    : "Decreased"}{" "}
+                  by{" "}
+                </span>
+                {item.inactive.change}
+              </p>
+            </div>
             <div className="absolute inset-x-0 bottom-0 bg-gray-50 px-4 py-4 sm:px-6">
               <div className="text-sm">
                 <a

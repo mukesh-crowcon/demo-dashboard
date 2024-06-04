@@ -22,8 +22,8 @@ export default function DeviceWithAlarms({ data }: DeviceWithAlarmsProps) {
   return (
     <ChartWrapper title="Devices with Alarms">
       <div className=" flex flex-row">
-        <div className="flex flex-col gap-y-2 ">
-          <div className="xl:visible invisible p-3 h-fit drop-shadow-lg rounded-2xl bg-white">
+        <div className="xl:flex hidden  flex-col gap-y-2 ">
+          <div className="p-3 h-fit drop-shadow-lg rounded-2xl bg-white">
             <p className="text-4xl font-bold text-indigo-500 leading-4 mt-2">
               {unSortedData[0].alarm1}
               <span className="text-sm text-gray-500 font-normal">Alarm1</span>

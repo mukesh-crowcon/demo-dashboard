@@ -4,7 +4,7 @@ const overDueData = data.fleetsummary.devicesOverDue;
 
 export default function ClientDevices() {
   return (
-    <div className="grid grid-cols-1 md:grid-col-2 lg:grid-cols-4  gap-6">
+    <div className="grid grid-cols-1 md:max-xl:grid-cols-2 xl:grid-cols-4  gap-6">
       <div className="relative flex flex-col justify-between overflow-hidden rounded-2xl bg-white ">
         <div className="flex-row flex justify-between items-center  px-4 pb-5 pt-5   sm:px-6 sm:pt-6">
           <div className="">

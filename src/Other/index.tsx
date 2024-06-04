@@ -84,8 +84,8 @@ export default function Other() {
     <div className="grid gap-4">
       <BreadCrumb activePage="Teams" />
 
-      <div className="grid grid-cols-2  gap-4 ">
-        <div className="grid grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-2  gap-4 ">
+        <div className="grid grid-cols-3 gap-4 md:max-xl:col-span-2">
           <div className="relative  flex flex-col justify-between overflow-hidden rounded-2xl bg-white  p-4">
             <p className="truncate text-sm font-medium text-gray-500">
               Bumped Devices
@@ -162,7 +162,7 @@ export default function Other() {
         <DueList /> */}
         <DueList />
       </div>
-      <div className="grid grid-cols-3 gap-4 ">
+      <div className="grid grid-col-1  xl:grid-cols-3 gap-4 ">
         <ChartWrapper
           title="Bump Info"
           showMonthSelector={false}
@@ -306,14 +306,14 @@ export default function Other() {
           </ResponsiveContainer>
         </ChartWrapper>
       </div>
-      <div className="flex flex-row justify-between items-center ">
-        <div className="h-[61px] text-gray-500 bg-white max-w-[calc(100vw-900px)] flex-row flex gap-x-2 p-3 pr-6 justify-between items-center  rounded-full">
+      <div className="flex flex-col md:flex-row gap-y-4 gap-x-2 justify-between xl:items-center ">
+        <div className="h-[61px] text-gray-500 bg-white max-w-full w-full md:max-w-[calc(100vw-70%)] md:w-fit grid grid-cols-9 md:grid-cols-6 gap-x-2 p-3 pr-6 justify-start items-center  rounded-full">
           <div className="bg-blue-700 p-2 rounded-full">
             <FunnelIcon className="w-6 h-6 text-white" />
           </div>
-          <div className="">
+          <div className="col-span-8 md:col-span-4">
             <div className="text-left text-sm ">Filter Summary : </div>
-            <div className="text-xs pt-1 font-bold truncate">
+            <div className="text-xs pt-1 font-bold truncate ">
               Date `14-Jan - 20-Jan`, Card: 1234****
             </div>
           </div>

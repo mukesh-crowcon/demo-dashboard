@@ -6,7 +6,7 @@ import Other from "../Other";
 
 function renderContent(active: string) {
   switch (active) {
-    case "dashboard":
+    case "Dashboard":
       return <Dashboard />;
     default:
       return <Other />;
@@ -15,7 +15,7 @@ function renderContent(active: string) {
 
 export default function Layout() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
-  const active = window.location.pathname.split("/:")[1];
+  const [activePage, setActivePage] = useState("Dashboard");
 
   return (
     <>
@@ -23,15 +23,19 @@ export default function Layout() {
         <SideBar
           isSidebarOpen={sidebarOpen}
           setSidebarOpen={setSidebarOpen}
+          activePage={activePage}
+          setActivePage={(page) => setActivePage(page)}
         />
-        <div className="lg:pl-72">
+        <div className="lg:pl-[200px]">
           <Header
             isSidebarOpen={sidebarOpen}
             openSidebar={() => setSidebarOpen((pre) => !pre)}
           />
 
           <main className="py-10">
-            <div className="px-4 sm:px-6 lg:px-8">{renderContent(active)}</div>
+            <div className="px-4 sm:px-6 lg:px-8">
+              {renderContent(activePage)}
+            </div>
           </main>
         </div>
       </div>

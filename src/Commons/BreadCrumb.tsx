@@ -8,8 +8,8 @@ import { ChevronDownIcon } from "@heroicons/react/24/outline";
 
 export default function BreadCrumb({ activePage }: { activePage: string }) {
   return (
-    <div className="flex justify-between items-center">
-      <div>
+    <div className="grid grid-cols-1 md:grid-cols-2">
+      <div className=" hidden md:block">
         <div className="text-sm text-gray-400 leading-3">
           Pages / <span className="font-bold">{activePage}</span>
         </div>
@@ -18,14 +18,14 @@ export default function BreadCrumb({ activePage }: { activePage: string }) {
         </div>
       </div>
 
-      <div className="gap-2 flex ">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-2  ">
         <Popover
           as="div"
           className="relative inline-block text-left h-full"
         >
           <PopoverButton
             title="Columns"
-            className="inline-flex w-56 h-full border-3 border-c-blue bg-c-light-blue-3  justify-between gap-x-1.5 rounded-full text-c-blue px-3 py-2 text-sm font-semibold  hover:bg-gray-100 hover:rounded-full"
+            className="inline-flex w-full  border-3 border-c-blue bg-c-light-blue-3  justify-between gap-x-1.5 rounded-full text-c-blue px-3 py-2 text-sm font-semibold  hover:bg-gray-100 hover:rounded-full"
           >
             Customer
             <ChevronDownIcon
@@ -44,7 +44,7 @@ export default function BreadCrumb({ activePage }: { activePage: string }) {
           >
             <PopoverPanel
               anchor="bottom"
-              className="z-10 mt-1 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
+              className="z-10 mt-1 w-full md:w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
             >
               <div className="py-3 px-4">
                 <div className="relative flex items-start py-1">
@@ -114,7 +114,7 @@ export default function BreadCrumb({ activePage }: { activePage: string }) {
         >
           <PopoverButton
             title="Columns"
-            className="inline-flex w-56 h-full border-3 border-c-blue bg-c-light-blue-3  justify-between gap-x-1.5 rounded-full text-c-blue px-3 py-2 text-sm font-semibold  hover:bg-gray-100 hover:rounded-full"
+            className="inline-flex w-full  border-3 border-c-blue bg-c-light-blue-3  justify-between gap-x-1.5 rounded-full text-c-blue px-3 py-2 text-sm font-semibold  hover:bg-gray-100 hover:rounded-full"
           >
             Business Unit
             <ChevronDownIcon
@@ -133,7 +133,7 @@ export default function BreadCrumb({ activePage }: { activePage: string }) {
           >
             <PopoverPanel
               anchor="bottom"
-              className="z-10 mt-1 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
+              className="z-10 mt-1 w-full md:w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none"
             >
               <div className="py-3 px-4">
                 <div className="relative flex items-start py-1">

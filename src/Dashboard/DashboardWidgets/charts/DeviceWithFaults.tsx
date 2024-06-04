@@ -22,7 +22,7 @@ export default function DeviceWithFaults({ data }: DeviceWithFaultsProps) {
   return (
     <ChartWrapper title="Device with faults">
       <div className=" flex flex-row">
-        <div className="xl:visible invisible  p-3 h-fit drop-shadow-lg rounded-xl bg-white">
+        <div className="xl:flex hidden p-3 h-fit drop-shadow-lg rounded-xl bg-white">
           <p className="text-4xl font-bold text-indigo-500 leading-4 mt-2">
             {unSortedData[0].faults}
             <span className="text-sm text-gray-500 font-normal">faults</span>
