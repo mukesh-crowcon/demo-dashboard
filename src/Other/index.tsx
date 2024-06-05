@@ -307,11 +307,13 @@ export default function Other() {
         </ChartWrapper>
       </div>
       <div className="flex flex-col md:flex-row gap-y-4 gap-x-2 justify-between xl:items-center ">
-        <div className="h-[61px] text-gray-500 bg-white max-w-full w-full md:max-w-[calc(100vw-70%)] md:w-fit grid grid-cols-9 md:grid-cols-6 gap-x-2 p-3 pr-6 justify-start items-center  rounded-full">
-          <div className="bg-blue-700 p-2 rounded-full">
-            <FunnelIcon className="w-6 h-6 text-white" />
+        <div className="h-[61px] text-gray-500 bg-white max-w-full w-full md:max-w-[calc(100vw-70%)] md:w-fit grid grid-cols-6 gap-x-3 p-3 pr-6 justify-start items-center  rounded-full">
+          <div className="col-span-1 flex">
+            <div className="bg-blue-700 p-2 rounded-full ">
+              <FunnelIcon className="w-6 h-6 text-white" />
+            </div>
           </div>
-          <div className="col-span-8 md:col-span-4">
+          <div className="col-span-5">
             <div className="text-left text-sm ">Filter Summary : </div>
             <div className="text-xs pt-1 font-bold truncate ">
               Date `14-Jan - 20-Jan`, Card: 1234****

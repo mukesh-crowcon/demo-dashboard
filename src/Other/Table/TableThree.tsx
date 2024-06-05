@@ -42,27 +42,30 @@ const TableThree = () => {
       <div className="relative  flex flex-col justify-between overflow-hidden rounded-2xl bg-white  py-4 px-7 ">
         <table>
           <thead>
-            <tr>
-              <th className="justify-start items-center flex gap-1">
+            <tr className="border-b-1 border-bottom-gray-200">
+              <th className="justify-start items-center gap-1 hidden md:flex">
                 {" "}
                 Description <ArrowDownIcon className="w-5 h-4" />
               </th>
               <th>Transaction</th>
-              <th>Type</th>
+              <th className="hidden md:flex">Type</th>
               <th>Card</th>
-              <th>Date</th>
+              <th className="hidden md:flex">Date</th>
               <th>Amount</th>
               <th>Receipt</th>
             </tr>
           </thead>
           <tbody>
             {currentTransactions.map((transaction) => (
-              <tr key={transaction.id}>
-                <td>{transaction.description}</td>
+              <tr
+                key={transaction.id}
+                className="border-b-1 border-bottom-gray-200"
+              >
+                <td className="hidden md:flex ">{transaction.description}</td>
                 <td>{transaction.transactionId}</td>
-                <td>{transaction.type}</td>
+                <td className="hidden md:flex ">{transaction.type}</td>
                 <td>{transaction.card}</td>
-                <td>{transaction.date}</td>
+                <td className="hidden md:flex">{transaction.date}</td>
                 <td
                   className={
                     transaction.amount.startsWith("+") ? "green" : "red"
